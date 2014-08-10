@@ -5,14 +5,6 @@
  *
  * PIC: 12F683
  * LED Connected to GPIO 2 (pin 5)
- *
- * PICKIT 3 Connection
- * 12F683 <-> PICKIT 3
- *  PIN 1 <-> (1) MCLR
- *  PIN 4 <-> (2) VDD
- *  PIN 6 <-> (5) ICSPCLK
- *  PIN 7 <-> (4) ICSPDAT
- *  PIN 8 <-> (3) VSS (3)
  */
 
 // CONFIG
